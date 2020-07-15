@@ -26,6 +26,7 @@
   <project path="external/json-c" name="android_external_json-c" remote="los" />
   <project path="external/libavc" name="android_external_libavc" remote="los" />
   <project path="external/libcxx" name="android_external_libcxx" remote="los" />
+  <project path="external/libexif" name="android_external_libexif" remote="los" />
   <project path="external/libhevc" name="android_external_libhevc" remote="los" />
   <project path="external/libcups" name="android_external_libcups" remote="los" />
   <project path="external/libncurses" name="android_external_libncurses" remote="los" />
@@ -39,6 +40,7 @@
   <project path="external/openssh" name="android_external_openssh" remote="los" />
   <project path="external/p7zip" name="android_external_p7zip" remote="los" />
   <project path="external/pigz" name="android_external_pigz" remote="los" />
+  <project path="external/ppp" name="android_external_ppp" remote="los" />
   <project path="external/proguard" name="android_external_proguard" remote="los" />
   <project path="external/rsync" name="android_external_rsync" remote="los" />
   <project path="external/sqlite" name="android_external_sqlite" remote="los" />

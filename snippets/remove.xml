@@ -76,6 +76,7 @@
   <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libcxx" />
+  <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/libpng" />
@@ -83,6 +84,7 @@
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/one-true-awk" />
   <remove-project name="platform/external/perfetto" />
+  <remove-project name="platform/external/ppp" />
   <remove-project name="platform/external/proguard" />
   <remove-project name="platform/external/python/appdirs" />
   <remove-project name="platform/external/python/cachetools" />
